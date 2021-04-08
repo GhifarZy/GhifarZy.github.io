@@ -7,6 +7,6 @@ title: Resume GhifarZy
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
-profile_picture: assets/images/ziady.jpg
+profile_picture: assets/img/ziady.jpg
 
 
