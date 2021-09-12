@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteRule ^index                     index.php [NC,L]
+RewriteRule ^about                     about.php [NC,L]
+RewriteRule ^skill                     skill.php [NC,L]
+RewriteRule ^education                 education.php [NC,L]
+RewriteRule ^contact                 contact.php [NC,L]
+RewriteRule ^experience             experience.php [NC,L]
